@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "487780451311",
+    "project_id": "capstone1-caeb1",
+    "storage_bucket": "capstone1-caeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487780451311:android:ca9e94f7a407ae1f11ac1a",
+        "android_client_info": {
+          "package_name": "com.cookandroid.capstone1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487780451311-dfm8e5f764jopbud63jpntiq5kr60bke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookandroid.capstone1",
+            "certificate_hash": "4995d37057a13a1efc7f6501ff59d5023cd1de55"
+          }
+        },
+        {
+          "client_id": "487780451311-muupshvarc62nuja4hmq3d7i5aat7j87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbOeY4llvXbck62Abg61bDMBAXUMlh4XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487780451311-muupshvarc62nuja4hmq3d7i5aat7j87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
